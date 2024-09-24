@@ -1,7 +1,7 @@
 ![MasterHead](https://camo.githubusercontent.com/85ca1a98dd1c4fe2b8b84de4612508468ca4d1c13ab11c4a794f733d37eacfd0/68747470733a2f2f7172616e676572732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f30392f42616e6e65722d496e74726f64756374696f6e2d746f2d33442d416e696d6174696f6e2e706e67)
 <h1 align="center">Hi, I'm Albina Haque ! </h1>
 <h3 align="center">Blending research, analysis, and creativity to uncover data-driven stories... </h3>
-<img align="right" alt="Coding" width="300" src="https://media2.giphy.com/media/WT9chy8AxXeexEUjWR/giphy.gif?cid=6c09b952fcmk4hgf0r0r3qgx2s4wgmuyzr9jyl9x86j6e8y1&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s">
+<img align="right" alt="Coding" width="250" src="https://media2.giphy.com/media/WT9chy8AxXeexEUjWR/giphy.gif?cid=6c09b952fcmk4hgf0r0r3qgx2s4wgmuyzr9jyl9x86j6e8y1&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s">
 <p align="left">I am a tech enthusiast with a passion for turning data into actionable insights and building solutions that matter. With hands-on experience in Python, R, machine learning, and data analysis, I love diving deep into projects that challenge me to think creatively and analytically.
 
 👩‍💻 Professional side:
